@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mane Kelsa</string>
+    <string name="title_details">Worker Full Details</string>
+
+    <string name="label_name">Name:</string>
+    <string name="label_skill">Profession:</string>
+    <string name="label_age">Age:</string>
+    <string name="label_experience">Experience:</string>
+    <string name="label_description">About Me:</string>
+    <string name="label_availability">Work Timings:</string>
+    <string name="label_location">Location:</string>
+    <string name="label_phone">Phone:</string>
+    <string name="label_daily_rate">Daily Rate:</string>
+    <string name="label_rating">Rating:</string>
+    <string name="label_distance">Distance:</string>
+    <string name="label_info">Worker Information</string>
+
+    <string name="unit_years">Years</string>
+    <string name="unit_km">km</string>
+    <string name="unit_people">people</string>
+    <string name="btn_call">Call Now</string>
+    <string name="btn_unavailable">Not Available</string>
+    <string name="no_info">No Information</string>
+</resources>

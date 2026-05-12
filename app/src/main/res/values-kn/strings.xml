@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ಮನೆ ಕೆಲಸ</string>
+    <string name="title_details">ಕೆಲಸಗಾರರ ಪೂರ್ಣ ವಿವರ</string>
+
+    <string name="label_name">ಹೆಸರು:</string>
+    <string name="label_skill">ವೃತ್ತಿ:</string>
+    <string name="label_age">ವಯಸ್ಸು:</string>
+    <string name="label_experience">ಅನುಭವ:</string>
+    <string name="label_description">ನನ್ನ ಬಗ್ಗೆ:</string>
+    <string name="label_availability">ಕೆಲಸದ ಸಮಯ:</string>
+    <string name="label_location">ಪ್ರದೇಶ:</string>
+    <string name="label_phone">ಫೋನ್ ಸಂಖ್ಯೆ:</string>
+    <string name="label_daily_rate">ದಿನದ ಕೂಲಿ:</string>
+    <string name="label_rating">ರೇಟಿಂಗ್:</string>
+    <string name="label_distance">ದೂರ:</string>
+    <string name="label_info">ಕಾರ್ಮಿಕರ ಮಾಹಿತಿ</string>
+
+    <string name="unit_years">ವರ್ಷ</string>
+    <string name="unit_km">ಕಿ.ಮೀ</string>
+    <string name="unit_people">ಜನರು</string>
+    <string name="btn_call">ಈಗಲೇ ಕರೆ ಮಾಡಿ</string>
+    <string name="btn_unavailable">ಈಗ ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="no_info">ಮಾಹಿತಿ ಲಭ್ಯವಿಲ್ಲ</string>
+</resources>

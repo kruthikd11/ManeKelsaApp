@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "418147918927",
+    "firebase_url": "https://manekelsa-d66da-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "manekelsa-d66da",
+    "storage_bucket": "manekelsa-d66da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418147918927:android:36477136df70238888f63a",
+        "android_client_info": {
+          "package_name": "com.example.manekelsaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418147918927-4vmjlerolrk4v5iflghleea802lhe04b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manekelsaapp",
+            "certificate_hash": "5795a99e84ace0fafdc739714495070fe3d283cf"
+          }
+        },
+        {
+          "client_id": "418147918927-ec7otbs7pll6a369odfq2oljk3tus7lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbp6IZKGS4trvEIh89eBl_MbAfMsRz0JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418147918927-ec7otbs7pll6a369odfq2oljk3tus7lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
