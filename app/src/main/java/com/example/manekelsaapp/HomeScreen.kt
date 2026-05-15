@@ -23,6 +23,7 @@ import androidx.compose.ui.unit.*
 import androidx.core.net.toUri
 import coil.compose.AsyncImage
 import com.example.manekelsaapp.model.Worker
+// Finalizing UI for submission
 
 // Data class for Top Categories with search logic
 data class CategoryIcon(val label: String, val icon: ImageVector, val searchKey: String)
